@@ -17,8 +17,9 @@ OR
 <h1>Result Kernel</h1>
 <h3>Kernel Results</h3>
 ![image](https://user-images.githubusercontent.com/41942751/178558429-8bbb016f-e763-4fb5-b40a-5dddb3a895b9.png)
-<img src="https://user-images.githubusercontent.com/41942751/178558429-8bbb016f-e763-4fb5-b40a-5dddb3a895b9.png"  width=200>
+<img src="https://user-images.githubusercontent.com/41942751/178558429-8bbb016f-e763-4fb5-b40a-5dddb3a895b9.png"  width=400 height=400>
 <h3>File Results</h3>
 ![image](https://user-images.githubusercontent.com/41942751/178558667-d256a734-c272-44e2-98ec-60a9874f41aa.png)
+<img src="https://user-images.githubusercontent.com/41942751/178558667-d256a734-c272-44e2-98ec-60a9874f41aa.png"  width=400 height=400>
 
 

@@ -34,4 +34,6 @@ https://www.tutorialspoint.com/python_data_access/python_postgresql_database_con
 
 https://www.postgresqltutorial.com/postgresql-python/connect/
 
+#mainlogic
+
 

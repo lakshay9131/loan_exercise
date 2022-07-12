@@ -13,31 +13,6 @@ OR
 
 1. Send the file/s to the interviewer or recruiter and you may ask them to share the file to the concerned point of contact/hiring team. 
 
-## Database Details: postgres
-```
-Database type : PostgresSQL
-host: f5fc7f6b-efd4-4ee7-a84b-332e38adf2a5.c9v3nfod0e3fgcbd1oug.databases.appdomain.cloud
-port: 30835
-dbname: q2c
-Username : q2c_user
-password : passw0rd
-```
 
-## Code assignment instruction
-* Create a Python application/file/script(s) (e.g test.py).
-* Using Python, create a connection to the postgres database using the database connection details as provided above.
-* Load the data from the q2c database (schema name : public | table name : loan_data) and perform the following operation to generate your result:
-  * Create a new column called **new term**, for the records with **term** is equal to '36 months' and **loan_status** is not equal to 'Fully Paid' update **new term** coumn with existing value of (**term** + 12 months) 
-  * Create a new column called **int_rates_add_2pct**, for every record udpate **int_rates_add_2pct** column with existing value of (**int_rate** + 2%).
-* Ouput the result into a csv file and submit the file.
-* Please also submit the Python script(s) used in the coding assignment. 
-* Create a requirement.txt file with all dependencies used. 
-
-## Optional
-In addition to the code assignment instruction above, you may also perform the following as bonus:
- 
-- Generate a model to predict which entry will have loan_status equals to 'Fully Paid'.
-- Please share the notebook(s)/python script(s) that you created to generate the above.
-- For each major step involved, please explain the reason why you are implementing the step.
-
-Note : the account q2c_user only have the read access. The operation should be performed on dataframe and output the result to csv file. 
+<h1>Result Kernel</h1>
+![image](https://user-images.githubusercontent.com/41942751/178558429-8bbb016f-e763-4fb5-b40a-5dddb3a895b9.png)

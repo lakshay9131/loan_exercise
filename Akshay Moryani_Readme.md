@@ -22,4 +22,16 @@ OR
 ![image](https://user-images.githubusercontent.com/41942751/178558667-d256a734-c272-44e2-98ec-60a9874f41aa.png)
 <img src="https://user-images.githubusercontent.com/41942751/178558667-d256a734-c272-44e2-98ec-60a9874f41aa.png"  width=400 height=400>
 
+<h1>Code Simply  using some basic methods</h1>
+Pandas ---> to convert it to csv file 
+time--> to get random substring file name
+psycopg2--> connect with database 
+
+
+##Sources
+
+https://www.tutorialspoint.com/python_data_access/python_postgresql_database_connection.htm#:~:text=To%20establish%20connection%20with%20the,is%20established%20with%20PostgreSQL%20database.
+
+https://www.postgresqltutorial.com/postgresql-python/connect/
+
 
